@@ -35,7 +35,7 @@ I have worked on a variety of enterprise projects across different industries, i
 - **Market Projects** – E-commerce and digital marketplace solutions
 
 ## 📬 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/nqhoan2403/{:target="_blank"})
+- 💼 [LinkedIn](https://www.linkedin.com/in/nqhoan2403/)
 - 📧 [Email](mailto:hoan9it@gmail.com)
 
 I am always eager to learn, innovate, and collaborate on exciting projects. Let's build something amazing together! 🚀
